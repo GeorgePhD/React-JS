@@ -1,8 +1,22 @@
-# React + Vite
+# Polyfill 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+it is used for compatibility with older versions
 
-Currently, two official plugins are available:
+the serious issues come from old browsers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+check the web "caniuse.com"
+
+# Transpiling
+
+this is a term that is a combination of transform and compile.
+
+# there are 2 way to build apps
+
+### 1 : client side rendering
+webs that work in the browser.
+
+### 2 : server side rendering
+webs that work in the server.
+
+# webpack
+it is a file packager 

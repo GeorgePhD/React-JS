@@ -1,0 +1,9 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+}
+.grid-products {
+    border: 1px solid white;
+    box-shadow: 3px 3px 6px rgb(127, 127, 127);
+}
