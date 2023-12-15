@@ -1,12 +1,10 @@
 import '../styles/itemlist.css'
 import PropTypes from 'prop-types';
 
+
 const ItemList = ({ products }) => {
 
-    console.log(products)
-
     //mapping products
-
     return (
         <>
         <h2>ItemList brought from a map()</h2>

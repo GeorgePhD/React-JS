@@ -1,6 +1,7 @@
 import './App.css'
 import Text from './Components/Text';
 import ItemListContainer from './Components/ItemListContainer';
+import ItemCount from './Components/ItemCount';
 function App() {
   
   return (
@@ -8,6 +9,7 @@ function App() {
       
       <Text />
       <ItemListContainer />
+      <ItemCount />
       
     </>
   )
