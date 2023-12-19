@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+  background-color: rgb(93, 92, 92);
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
